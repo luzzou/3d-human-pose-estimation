@@ -103,6 +103,21 @@
    code：https://github.com/mkocabas/EpipolarPose
 
 
+## 2D-to-3D
+
+1. A simple yet effective baseline for 3d human pose estimation (ICCV2017)
+
+   论文链接：https://arxiv.org/abs/1705.03098
+   
+   code：https://github.com/lck1201/simple-effective-3Dpose-baseline
+   
+   
+2. Learning pose grammar to encode human body configuration for 3D pose estimation (AAAI2018)
+
+   论文链接：https://arxiv.org/abs/1710.06513
+   
+   code：https://bitbucket.org/merayxu/3dpose_grammar
+
 
 ## Ordinal depth
 
