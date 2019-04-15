@@ -77,7 +77,7 @@
    论文链接：https://arxiv.org/abs/1803.09722
 
 
-# Multi-view methods
+## Multi-view methods
 
 1. Learning Monocular 3D Human Pose Estimation from Multi-view Images (CVPR2018)
 
@@ -101,3 +101,22 @@
    论文链接：https://arxiv.org/abs/1903.02330
    
    code：https://github.com/mkocabas/EpipolarPose
+
+
+
+## Ordinal depth
+
+1. Ordinal Depth Supervision for 3D Human Pose Estimation (CVPR2018)
+   
+   论文链接：https://arxiv.org/abs/1805.04095
+   
+   code：https://github.com/geopavlakos/ordinal-pose3d
+   
+   
+2. It’s all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data (BMVC2018)
+
+   论文链接：https://arxiv.org/abs/1805.06880
+   
+   project page: http://www.vision.caltech.edu/~mronchi/projects/RelativePose/
+   
+   code：https://github.com/matteorr/rel_3d_pose
