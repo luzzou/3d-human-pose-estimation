@@ -120,3 +120,10 @@
    project page: http://www.vision.caltech.edu/~mronchi/projects/RelativePose/
    
    code：https://github.com/matteorr/rel_3d_pose
+
+
+3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (arXiv)
+
+   论文链接：https://arxiv.org/abs/1904.01324
+   
+   code：https://github.com/ssfootball04/generative_pose (已失效)
