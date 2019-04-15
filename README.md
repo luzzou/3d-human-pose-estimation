@@ -77,5 +77,27 @@
    论文链接：https://arxiv.org/abs/1803.09722
 
 
-# ICCV
-## ICCV2019
+# Multi-view methods
+
+1. Learning Monocular 3D Human Pose Estimation from Multi-view Images (CVPR2018)
+
+   论文链接：https://arxiv.org/abs/1803.04775
+   
+   
+2. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (CVPR2019 oral)
+   
+   论文链接：https://arxiv.org/abs/1903.08839
+
+
+3. Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation (ECCV2018)
+
+   论文链接：https://arxiv.org/abs/1804.01110
+   
+   code：https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning
+
+
+4. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
+
+   论文链接：https://arxiv.org/abs/1903.02330
+   
+   code：https://github.com/mkocabas/EpipolarPose
