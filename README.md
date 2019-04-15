@@ -103,6 +103,11 @@
    code：https://github.com/mkocabas/EpipolarPose
 
 
+5. Generalizing Monocular 3D Human Pose Estimation in the Wild
+
+   论文链接：https://arxiv.org/abs/1904.05512
+
+
 ## 2D-to-3D
 
 1. A simple yet effective baseline for 3d human pose estimation (ICCV2017)
