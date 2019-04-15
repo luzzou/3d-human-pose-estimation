@@ -29,7 +29,9 @@
 
 5. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
 
-   论文链接：<https://github.com/mkocabas/EpipolarPose>
+   论文链接: https://arxiv.org/abs/1903.02330
+   
+   github：<https://github.com/mkocabas/EpipolarPose>
 
 
 
