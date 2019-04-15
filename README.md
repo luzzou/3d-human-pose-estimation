@@ -61,14 +61,19 @@
 
    github：https://github.com/facebookresearch/VideoPose3D
 
-# 其他重要论文
+
+# Others
 
 ## Monocular methods
 1. Towards 3d human pose estimation in the wild: a weakly-supervised approach(ICCV2017).
+
    论文链接：https://arxiv.org/abs/1704.02447
+   
    code：https://github.com/xingyizhou/pose-hg-3d
 
+
 2. 3D Human Pose Estimation in the Wild by Adversarial Learning (CVPR2018)
+
    论文链接：https://arxiv.org/abs/1803.09722
 
 
