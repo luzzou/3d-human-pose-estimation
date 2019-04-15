@@ -65,7 +65,7 @@
 # Others
 
 ## Monocular methods
-1. Towards 3d human pose estimation in the wild: a weakly-supervised approach(ICCV2017).
+1. Towards 3d human pose estimation in the wild: a weakly-supervised approach (ICCV2017).
 
    论文链接：https://arxiv.org/abs/1704.02447
    
