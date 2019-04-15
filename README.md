@@ -9,7 +9,6 @@
 
 
 
-
 2. Unsupervised 3D Pose Estimation with Geometric Self-Supervision
 
    论文链接：[https://arxiv.org/abs/1904.04812](https://arxiv.org/abs/1904.04812) 
@@ -24,7 +23,7 @@
 
 4. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (oral)
 
-​       论文链接：<https://arxiv.org/abs/1903.08839> 
+   论文链接：<https://arxiv.org/abs/1903.08839> 
 
 
 
