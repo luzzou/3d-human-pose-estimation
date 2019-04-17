@@ -139,4 +139,10 @@
 3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (arXiv)
 
    [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
+  
+  
+## Others
+1. Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations 
+
+   [[paper](https://arxiv.org/abs/1803.08244)][[code](https://github.com/kogaki/3dpose_gan)][[project(https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)]
  
