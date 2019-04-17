@@ -11,27 +11,29 @@
 
 2. Unsupervised 3D Pose Estimation with Geometric Self-Supervision
 
-   论文链接：[https://arxiv.org/abs/1904.04812](https://arxiv.org/abs/1904.04812) 
+   [[paper](https://arxiv.org/abs/1904.04812)]
 
 
 
 3. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations
 
-   论文链接：https://arxiv.org/abs/1904.03289
+   [[paper](https://arxiv.org/abs/1904.03289)]
 
    
 
 4. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (oral)
 
-   论文链接：<https://arxiv.org/abs/1903.08839> 
+   [[paper](https://arxiv.org/abs/1903.08839)]
+   
 
 
 
 5. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
 
-   论文链接: https://arxiv.org/abs/1903.02330
+   [[paper(https://arxiv.org/abs/1903.02330)]
    
-   github：<https://github.com/mkocabas/EpipolarPose>
+   [[code](https://github.com/mkocabas/EpipolarPose)]
+ 
 
 
 
