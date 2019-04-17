@@ -4,7 +4,7 @@
 
 1. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
 
-   论文链接：https://arxiv.org/abs/1902.09868
+   [paper](https://arxiv.org/abs/1902.09868)
 
 
 
