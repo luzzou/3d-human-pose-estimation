@@ -144,5 +144,5 @@
 ## Others
 1. Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations 
 
-   [[paper](https://arxiv.org/abs/1803.08244)][[code](https://github.com/kogaki/3dpose_gan)][[project(https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)]
+   [[paper](https://arxiv.org/abs/1803.08244)][[code](https://github.com/kogaki/3dpose_gan)][[project](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)]
  
