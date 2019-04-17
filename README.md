@@ -37,30 +37,23 @@
    
  
 
-
-
-6. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
-
-   [[paper](https://arxiv.org/abs/1902.09868)][[code]][project]
    
 
-   
-
-7. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network
+6. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network
 
    [[paper](https://arxiv.org/abs/1904.05547)][code][project]
    
 
    
 
-8. Generalizing Monocular 3D Human Pose Estimation in the Wild
+7. Generalizing Monocular 3D Human Pose Estimation in the Wild
 
    [[paper](https://arxiv.org/abs/1904.05512)][code][project]
    
 
    
 
-9. 3D human pose estimation in video with temporal convolutions and semi-supervised training
+8. 3D human pose estimation in video with temporal convolutions and semi-supervised training
 
    [[paper](https://arxiv.org/abs/1811.11742)][[code](https://github.com/facebookresearch/VideoPose3D)][[project](https://dariopavllo.github.io/VideoPose3D)]
    
