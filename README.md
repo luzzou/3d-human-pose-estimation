@@ -141,12 +141,29 @@
    [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
   
   
-## Others
+## Unsupervised/Self-supervised
 1. Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations 
 
    [[paper](https://arxiv.org/abs/1803.08244)][[code](https://github.com/kogaki/3dpose_gan)][[project](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)]
 
 
+
+2. Generalizing Monocular 3D Human Pose Estimation in the Wild
+
+   [[paper](https://arxiv.org/abs/1904.05512)][code][project]
+
+
+3. Unsupervised 3D Pose Estimation with Geometric Self-Supervision
+
+   [[paper](https://arxiv.org/abs/1904.04812)][code][project]
+   
+   
+   
+4. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
+
+   [[paper](https://arxiv.org/abs/1903.02330)][[code](https://github.com/mkocabas/EpipolarPose)][project]
+   
+   
 
 # 3D pose datasets
 
