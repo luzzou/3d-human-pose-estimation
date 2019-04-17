@@ -4,59 +4,65 @@
 
 1. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
 
-   [[paper](https://arxiv.org/abs/1902.09868)]
+   [[paper](https://arxiv.org/abs/1902.09868)][code][project]
 
 
 
 
 2. Unsupervised 3D Pose Estimation with Geometric Self-Supervision
 
-   [[paper](https://arxiv.org/abs/1904.04812)]
+   [[paper](https://arxiv.org/abs/1904.04812)][code][project]
+
 
 
 
 3. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations
 
-   [[paper](https://arxiv.org/abs/1904.03289)]
+   [[paper](https://arxiv.org/abs/1904.03289)][code][project]
+
 
    
 
 4. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (oral)
 
-   [[paper](https://arxiv.org/abs/1903.08839)]
+   [[paper](https://arxiv.org/abs/1903.08839)][code][project]
+
    
 
 
 
 5. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
 
-   [[paper(https://arxiv.org/abs/1903.02330)]
+   [[paper](https://arxiv.org/abs/1903.02330)][[code](https://github.com/mkocabas/EpipolarPose)][project]
    
-   [[code](https://github.com/mkocabas/EpipolarPose)]
  
 
 
 
 6. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
 
-   论文链接：<https://arxiv.org/abs/1902.09868>
+   [[paper](https://arxiv.org/abs/1902.09868)][[code]][project]
+   
 
    
 
 7. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network
 
+   [[paper](https://arxiv.org/abs/1904.03289)][code][project]
    论文链接：https://arxiv.org/abs/1904.05547
 
    
 
 8. Generalizing Monocular 3D Human Pose Estimation in the Wild
 
+   [[paper](https://arxiv.org/abs/1904.03289)][code][project]
    论文链接：https://arxiv.org/abs/1904.05512
 
    
 
 9. 3D human pose estimation in video with temporal convolutions and semi-supervised training
 
+   [[paper](https://arxiv.org/abs/1904.03289)][code][project]
    论文链接：https://arxiv.org/abs/1811.11742
 
    项目主页：<https://dariopavllo.github.io/VideoPose3D>
@@ -137,15 +143,11 @@
    
 2. It’s all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data (BMVC2018)
 
-   论文链接：https://arxiv.org/abs/1805.06880
+   [[paper](https://arxiv.org/abs/1805.06880)][[code](https://github.com/matteorr/rel_3d_pose)][[project](http://www.vision.caltech.edu/~mronchi/projects/RelativePose/)]
    
-   project page: http://www.vision.caltech.edu/~mronchi/projects/RelativePose/
-   
-   code：https://github.com/matteorr/rel_3d_pose
 
 
 3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (arXiv)
 
-   论文链接：https://arxiv.org/abs/1904.01324
-   
-   code：https://github.com/ssfootball04/generative_pose (已失效)
+   [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
+ 
