@@ -43,21 +43,19 @@
 
    [[paper](https://arxiv.org/abs/1904.05547)][code][project]
    
+ 
 
    
 
-7. Generalizing Monocular 3D Human Pose Estimation in the Wild
-
-   [[paper](https://arxiv.org/abs/1904.05512)][code][project]
-   
-
-   
-
-8. 3D human pose estimation in video with temporal convolutions and semi-supervised training
+7. 3D human pose estimation in video with temporal convolutions and semi-supervised training
 
    [[paper](https://arxiv.org/abs/1811.11742)][[code](https://github.com/facebookresearch/VideoPose3D)][[project](https://dariopavllo.github.io/VideoPose3D)]
    
    
+
+8. Semantic Graph Convolutional Networks for 3D Human Pose Regression
+
+   [[paper](https://arxiv.org/abs/1904.03345)][code][project]
 
 
 # Others
@@ -74,6 +72,12 @@
 
    [[paper](https://arxiv.org/abs/1803.09722)][code][project]
    
+
+
+3. Generalizing Monocular 3D Human Pose Estimation in the Wild
+
+   [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
+
 
 
 ## Multi-view methods
