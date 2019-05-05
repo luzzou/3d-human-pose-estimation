@@ -16,7 +16,7 @@
 
 
 
-3. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations
+3. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations (oral)
 
    [[paper](https://arxiv.org/abs/1904.03289)][code][project]
 
