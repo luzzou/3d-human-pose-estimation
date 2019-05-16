@@ -59,6 +59,7 @@
    
    
 9. Exploiting temporal context for 3D human pose estimation in the wild
+
 [[paper](https://arxiv.org/abs/1905.04266)][[code](https://github.com/deepmind/Temporal-3D-Pose-Kinetics)][project]
 
 
