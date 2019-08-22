@@ -41,7 +41,7 @@
 
 6. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network
 
-   [[paper](https://arxiv.org/abs/1904.05547)][code][project]
+   [[paper](https://arxiv.org/abs/1904.05547)][[code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)][project]
    
  
 
