@@ -110,10 +110,6 @@
    [[paper](https://arxiv.org/abs/1903.02330)][[code](https://github.com/mkocabas/EpipolarPose)][project]
 
 
-
-5. Generalizing Monocular 3D Human Pose Estimation in the Wild
-
-   [[paper](https://arxiv.org/abs/1904.05512)][code][project]
   
 
 
