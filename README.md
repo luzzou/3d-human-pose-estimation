@@ -63,6 +63,16 @@
    [[paper](https://arxiv.org/abs/1905.04266)][[code](https://github.com/deepmind/Temporal-3D-Pose-Kinetics)][project]
 
 
+# ICCV2019
+
+1. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking
+
+   [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
+
+2. Learnable Triangulation of Human Pose（Oral)
+
+   [[paper](https://arxiv.org/abs/1905.05754)][[code](https://github.com/karfly/learnable-triangulation-pytorch)][[project](https://saic-violet.github.io/learnable-triangulation/)]
+
 # Others
 
 ## Monocular methods
@@ -79,7 +89,7 @@
    
 
 
-3. Generalizing Monocular 3D Human Pose Estimation in the Wild
+3. Generalizing Monocular 3D Human Pose Estimation in the Wild (Arxiv preprint)
 
    [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
 
@@ -141,7 +151,7 @@
    
 
 
-3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (arXiv)
+3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (ICCV2019)
 
    [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
   
