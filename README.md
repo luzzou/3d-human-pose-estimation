@@ -68,7 +68,7 @@
 
 
 
-2. Learnable Triangulation of Human Pose（Oral)
+2. Learnable Triangulation of Human Pose (Oral)
 
    [[paper](https://arxiv.org/abs/1905.05754)][[code](https://github.com/karfly/learnable-triangulation-pytorch)][[project](https://saic-violet.github.io/learnable-triangulation/)]
 
