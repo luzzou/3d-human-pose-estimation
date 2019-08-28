@@ -27,7 +27,7 @@
 
    [[paper](https://arxiv.org/abs/1903.08839)][code][project]
 
-   
+  
 
 
 
@@ -37,15 +37,11 @@
    
  
 
-   
-
 6. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network
 
    [[paper](https://arxiv.org/abs/1904.05547)][[code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)][project]
    
  
-
-   
 
 7. 3D human pose estimation in video with temporal convolutions and semi-supervised training
 
@@ -56,6 +52,7 @@
 8. Semantic Graph Convolutional Networks for 3D Human Pose Regression
 
    [[paper](https://arxiv.org/abs/1904.03345)][[code](https://github.com/garyzhao/SemGCN)][project]
+   
    
    
 9. Exploiting temporal context for 3D human pose estimation in the wild
@@ -69,33 +66,50 @@
 
    [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
 
+
+
 2. Learnable Triangulation of Human Pose（Oral)
 
    [[paper](https://arxiv.org/abs/1905.05754)][[code](https://github.com/karfly/learnable-triangulation-pytorch)][[project](https://saic-violet.github.io/learnable-triangulation/)]
 
+
+
 # Others
 
 ## Monocular methods
-1. Towards 3d human pose estimation in the wild: a weakly-supervised approach (ICCV2017).
+
+1. A simple yet effective baseline for 3d human pose estimation (ICCV2017)
+
+   [[paper](https://arxiv.org/abs/1705.03098)][[code](https://github.com/lck1201/simple-effective-3Dpose-baseline)][project]
+   
+   
+   
+2. Towards 3d human pose estimation in the wild: a weakly-supervised approach (ICCV2017).
 
    [[paper](https://arxiv.org/abs/1704.02447)][[code](https://github.com/xingyizhou/pose-hg-3d)][project]
    
 
 
-
-2. 3D Human Pose Estimation in the Wild by Adversarial Learning (CVPR2018)
+3. 3D Human Pose Estimation in the Wild by Adversarial Learning (CVPR2018)
 
    [[paper](https://arxiv.org/abs/1803.09722)][code][project]
    
+   
+   
+4. Learning pose grammar to encode human body configuration for 3D pose estimation (AAAI2018)
+
+   [[paper](https://arxiv.org/abs/1710.06513)][[code](https://bitbucket.org/merayxu/3dpose_grammar)][project]
+   
 
 
-3. Generalizing Monocular 3D Human Pose Estimation in the Wild (Arxiv preprint)
+5. Generalizing Monocular 3D Human Pose Estimation in the Wild (Arxiv preprint)
 
    [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
 
 
 
 ## Multi-view methods
+
 
 1. Learning Monocular 3D Human Pose Estimation from Multi-view Images (CVPR2018)
 
@@ -119,21 +133,6 @@
 
    [[paper](https://arxiv.org/abs/1903.02330)][[code](https://github.com/mkocabas/EpipolarPose)][project]
 
-
-  
-
-
-## 2D-to-3D
-
-1. A simple yet effective baseline for 3d human pose estimation (ICCV2017)
-
-   [[paper](https://arxiv.org/abs/1705.03098)][[code](https://github.com/lck1201/simple-effective-3Dpose-baseline)][project]
-   
-   
-   
-2. Learning pose grammar to encode human body configuration for 3D pose estimation (AAAI2018)
-
-   [[paper](https://arxiv.org/abs/1710.06513)][[code](https://bitbucket.org/merayxu/3dpose_grammar)][project]
    
 
 
@@ -154,6 +153,8 @@
 3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (ICCV2019)
 
    [[paper](https://arxiv.org/abs/1904.01324)][[code](https://github.com/ssfootball04/generative_pose)][project]
+  
+  
   
   
 ## Unsupervised/Self-supervised
