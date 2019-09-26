@@ -71,6 +71,13 @@
 2. Learnable Triangulation of Human Pose (Oral)
 
    [[paper](https://arxiv.org/abs/1905.05754)][[code](https://github.com/karfly/learnable-triangulation-pytorch)][[project](https://saic-violet.github.io/learnable-triangulation/)]
+   
+   
+3. Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks
+
+   [[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)][code][project]
+
+
 
 
 
