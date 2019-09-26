@@ -116,7 +116,11 @@
 6. Feature Boosting Network For 3D Pose Estimation (PAMI2019)
 
     [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8621059)][code][project]
+    
+    
+7. 3D Human Pose Machines with Self-supervised Learning (PAMI2019)
 
+    [[paper](https://github.com/chanyn/3Dpose_ssl)][code][project]
 
 
 ## Multi-view methods
@@ -189,6 +193,11 @@
 4. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
 
    [[paper](https://arxiv.org/abs/1903.02330)][[code](https://github.com/mkocabas/EpipolarPose)][project]
+   
+   
+5. 3D human pose machines with self-supervised learning (PAMI2019)
+
+   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611195)][[code](https://github.com/chanyn/3Dpose_ssl)][project]
    
  
 
