@@ -1,6 +1,5 @@
-# CVPR
 
-## CVPR2019
+# CVPR2019
 
 1. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
 
@@ -78,6 +77,27 @@
    [[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)][code][project]
 
 
+
+# NIPS2019
+
+1. Sim2real transfer learning for 3D pose estimation: motion to the rescue
+
+   [[paper](https://arxiv.org/pdf/1907.02499.pdf)][code][project]
+   
+
+2. Learning Temporal Pose Estimation from Sparsely-Labeled Videos
+
+   [[paper](https://arxiv.org/pdf/1906.04016.pdf)][code][project]
+
+
+3. Self-Supervised Active Triangulation for 3D Human Pose Reconstruction
+
+   [paper][code][project]
+
+
+4. Chirality Nets for Human Pose Regression
+
+   [paper][code][project]
 
 
 
