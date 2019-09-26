@@ -83,7 +83,6 @@
 
 # Others
 
-## Monocular methods
 
 1. A simple yet effective baseline for 3d human pose estimation (ICCV2017)
 
@@ -112,6 +111,11 @@
 5. Generalizing Monocular 3D Human Pose Estimation in the Wild (Arxiv preprint)
 
    [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
+   
+   
+6. Feature Boosting Network For 3D Pose Estimation (PAMI2019)
+
+    [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8621059)][code][project]
 
 
 
@@ -186,7 +190,9 @@
 
    [[paper](https://arxiv.org/abs/1903.02330)][[code](https://github.com/mkocabas/EpipolarPose)][project]
    
-   
+ 
+
+
 
 # 3D pose datasets
 
