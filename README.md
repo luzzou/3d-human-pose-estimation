@@ -99,57 +99,57 @@ Oct:
 
 11. 3D human pose machines with self-supervised learning (TPAMI2019)
 
-   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611195)]
-   [[code](https://github.com/chanyn/3Dpose_ssl)][project]
+    [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611195)]
+    [[code](https://github.com/chanyn/3Dpose_ssl)][project]
    
 
 
 12. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation (cvpr2019)
 
-   [[paper](https://arxiv.org/abs/1902.09868)]
-   [[code](https://github.com/bastianwandt/RepNet)][project]
+    [[paper](https://arxiv.org/abs/1902.09868)]
+    [[code](https://github.com/bastianwandt/RepNet)][project]
 
 
 
-23. Unsupervised 3D Pose Estimation with Geometric Self-Supervision (cvpr2019)
+13. Unsupervised 3D Pose Estimation with Geometric Self-Supervision (cvpr2019)
 
-   [[paper](https://arxiv.org/abs/1904.04812)][code][project]
+    [[paper](https://arxiv.org/abs/1904.04812)][code][project]
 
 
 
 14. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations (cvpr2019)(oral) 
 
-   [[paper](https://arxiv.org/abs/1904.03289)][code][project]
+    [[paper](https://arxiv.org/abs/1904.03289)][code][project]
 
 
    
 
 15. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (cvpr2019)(oral)
 
-   [[paper](https://arxiv.org/abs/1903.08839)][code][project]
+    [[paper](https://arxiv.org/abs/1903.08839)][code][project]
 
   
 
 
 16. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (cvpr2019)
 
-   [[paper](https://arxiv.org/abs/1903.02330)]
-   [[code](https://github.com/mkocabas/EpipolarPose)][project]
+    [[paper](https://arxiv.org/abs/1903.02330)]
+    [[code](https://github.com/mkocabas/EpipolarPose)][project]
    
  
 
 17. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network (cvpr2019)
 
-   [[paper](https://arxiv.org/abs/1904.05547)]
-   [[code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)][project]
+    [[paper](https://arxiv.org/abs/1904.05547)]
+    [[code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)][project]
    
  
 
 
 18. Semantic Graph Convolutional Networks for 3D Human Pose Regression (cvpr2019)
 
-   [[paper](https://arxiv.org/abs/1904.03345)]
-   [[code](https://github.com/garyzhao/SemGCN)][project]
+    [[paper](https://arxiv.org/abs/1904.03345)]
+    [[code](https://github.com/garyzhao/SemGCN)][project]
    
    
 
@@ -157,8 +157,8 @@ Oct:
 
 19. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (iccv2019)
 
-   [[paper](https://arxiv.org/abs/1904.01324)]
-   [[code](https://github.com/ssfootball04/generative_pose)][project]
+    [[paper](https://arxiv.org/abs/1904.01324)]
+    [[code](https://github.com/ssfootball04/generative_pose)][project]
 
 
    
@@ -166,7 +166,7 @@ Oct:
 
 20. Sim2real transfer learning for 3D pose estimation: motion to the rescue (nips2019)
 
-   [[paper](https://arxiv.org/pdf/1907.02499.pdf)][code][project]
+    [[paper](https://arxiv.org/pdf/1907.02499.pdf)][code][project]
    
 
 
@@ -174,20 +174,20 @@ Oct:
 
 21. Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (nips2019)
 
-   [paper][code][project]
+    [paper][code][project]
 
 
 
 22. Chirality Nets for Human Pose Regression (nips2019)
 
-   [paper][code][project]
+    [paper][code][project]
 
 
 
 
 23. Generalizing Monocular 3D Human Pose Estimation in the Wild (Arxiv preprint 2019)
 
-   [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
+    [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
    
    
 
