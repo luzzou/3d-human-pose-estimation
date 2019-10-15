@@ -200,6 +200,10 @@ Oct:
 
 1. Exploiting temporal information for 3d human pose estimation. (eccv2018)
 
+   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.pdf)]
+   [[code]()]
+   [[project]()]
+
 
 
 2. 3D human pose estimation in video with temporal convolutions and semi-supervised training (cvpr2019)
