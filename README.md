@@ -1,6 +1,4 @@
-会议投稿时间：
-
-Nov: CVPR (滞后一年)
+Important datas：
 
 Jan: IJCAI SIGGRAPH ICML
 
@@ -21,6 +19,8 @@ Aug:
 Sep: AAAI ICLR
 
 Oct:
+
+Nov: CVPR
 
 
 
