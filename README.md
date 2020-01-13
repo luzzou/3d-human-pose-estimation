@@ -1,4 +1,4 @@
-Important datas：
+###**Important Conferences：**
 
 Jan: IJCAI SIGGRAPH ICML
 
@@ -26,7 +26,7 @@ Nov: CVPR
 
 
 
-# Monocular methods
+# Monocular Methods
 
 
 
@@ -56,7 +56,7 @@ Nov: CVPR
 
 
 
-5. Integral human pose regression. (eccv2018)
+5. Integral human pose regression (eccv2018)
   
     [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiao_Sun_Integral_Human_Pose_ECCV_2018_paper.pdf)]
     [[code](https://github.com/JimmySuen/integral-human-pose)][[project]()]
@@ -132,35 +132,10 @@ Nov: CVPR
     [[paper](https://arxiv.org/abs/1903.02330)]
     [[code](https://github.com/mkocabas/EpipolarPose)][project]
    
- 
-
-16. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network (cvpr2019)
-
-    [[paper](https://arxiv.org/abs/1904.05547)]
-    [[code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)][project]
-   
- 
-
-
-17. Semantic Graph Convolutional Networks for 3D Human Pose Regression (cvpr2019)
-
-    [[paper](https://arxiv.org/abs/1904.03345)]
-    [[code](https://github.com/garyzhao/SemGCN)][project]
-   
-   
-
-
-
-18. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (iccv2019)
-
-    [[paper](https://arxiv.org/abs/1904.01324)]
-    [[code](https://github.com/ssfootball04/generative_pose)][project]
-
 
    
-   
 
-19. Sim2real transfer learning for 3D pose estimation: motion to the rescue (nips2019)
+16. Sim2real transfer learning for 3D pose estimation: motion to the rescue (nips2019)
 
     [[paper](https://arxiv.org/pdf/1907.02499.pdf)][code][project]
    
@@ -168,20 +143,14 @@ Nov: CVPR
 
 
 
-20. Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (nips2019)
-
-    [paper][code][project]
-
-
-
-21. Chirality Nets for Human Pose Regression (nips2019)
+17. Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (nips2019)
 
     [paper][code][project]
 
 
 
 
-22. Generalizing Monocular 3D Human Pose Estimation in the Wild (Arxiv preprint 2019)
+18. Generalizing Monocular 3D Human Pose Estimation in the Wild (iccv2019 workshop)
 
     [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
    
@@ -207,22 +176,25 @@ Nov: CVPR
    [[paper](https://arxiv.org/abs/1811.11742)][[code](https://github.com/facebookresearch/VideoPose3D)][[project](https://dariopavllo.github.io/VideoPose3D)]
    
 
+3. Chirality Nets for Human Pose Regression (nips2019)
+
+    [paper][code][project]
 
    
-3. Exploiting temporal context for 3D human pose estimation in the wild (cvpr2019)
+4. Exploiting temporal context for 3D human pose estimation in the wild (cvpr2019)
 
    [[paper](https://arxiv.org/abs/1905.04266)][[code](https://github.com/deepmind/Temporal-3D-Pose-Kinetics)][project]
 
 
 
 
-4. Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks (iccv2019)
+5. Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks (iccv2019)
 
    [[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)][code][project]
 
 
 
-5. Learning Temporal Pose Estimation from Sparsely-Labeled Videos (nips2019)
+6. Learning Temporal Pose Estimation from Sparsely-Labeled Videos (nips2019)
 
    [[paper](https://arxiv.org/pdf/1906.04016.pdf)][code][project]
 
@@ -233,7 +205,62 @@ Nov: CVPR
 
 
 
-# Multi-view methods
+# GCN
+
+
+1. Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks (iccv2019)
+
+   [[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)][code][project]
+
+
+2. Semantic Graph Convolutional Networks for 3D Human Pose Regression (cvpr2019)
+
+    [[paper](https://arxiv.org/abs/1904.03345)]
+    [[code](https://github.com/garyzhao/SemGCN)][project]
+
+
+3. Optimizing Network Structure for 3D Human Pose Estimation (iccv2019)
+
+    [[paper](https://chunyuwang.netlify.com/img/ICCV_2019_CiHai.pdf)]
+    [[code](https://chunyuwang.netlify.com/)]
+
+
+
+
+
+# Multimodal
+
+
+1. Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses (iccv17)
+
+   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf)]
+
+
+
+2. Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network (cvpr2019)
+
+    [[paper](https://arxiv.org/abs/1904.05547)]
+    [[code](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)]
+
+
+
+3. Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking (iccv2019)
+
+    [[paper](https://arxiv.org/abs/1904.01324)]
+    [[code](https://github.com/ssfootball04/generative_pose)][project]
+
+
+
+4. Multimodal 3D Human Pose Estimation from a Single Image (3dv2019)
+
+    [[paper](https://facstaff.elon.edu/sspurlock/papers/spurlock19_mdnpose.pdf)]
+
+
+
+
+
+
+# Multi-view Methods
 
 
 1. Learning Monocular 3D Human Pose Estimation from Multi-view Images (CVPR2018)
@@ -288,7 +315,7 @@ Nov: CVPR
 
 
 
-# 3D pose datasets
+# 3D Pose Datasets
 
 ## [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
    
