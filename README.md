@@ -178,7 +178,7 @@ Nov: CVPR
 
 3. Chirality Nets for Human Pose Regression (nips2019)
 
-    [paper][code][project]
+    [[paper](https://arxiv.org/abs/1911.00029)][[code](https://github.com/raymondyeh07/chirality_nets)][[project](http://www.isle.illinois.edu/~yeh17/projects/chirality_nets/index.html)]
 
    
 4. Exploiting temporal context for 3D human pose estimation in the wild (cvpr2019)
