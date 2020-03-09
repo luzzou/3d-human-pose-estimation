@@ -199,8 +199,9 @@ Nov: CVPR
    [[paper](https://arxiv.org/pdf/1906.04016.pdf)][code][project]
 
 
+7. Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation (submitted to cvpr2020)
 
-
+   [[paper](https://arxiv.org/abs/2002.11251)][[code](https://github.com/vnmr/JointVideoPose3D)][project]
 
 
 
