@@ -204,6 +204,9 @@ Nov: CVPR
    [[paper](https://arxiv.org/abs/2002.11251)][[code](https://github.com/vnmr/JointVideoPose3D)][project]
 
 
+8. Anatomy-aware 3D Human Pose Estimation in Videos (arXiv2020)
+
+
 
 
 # GCN
