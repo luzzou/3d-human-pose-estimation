@@ -317,6 +317,20 @@ Nov: CVPR
    
 
 
+# Pose and shape estimation
+
+
+1.  Learning 3D Human Dynamics from Video (cvpr2019)
+
+    [[paper]()][[code]()][[project]()]
+
+
+
+2.  VIBE: Video Inference for Human Body Pose and Shape Estimation (cvpr2020)
+
+
+    [[paper]()][[code]()][[project]()]
+
 
 
 # 3D Pose Datasets
