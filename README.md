@@ -155,8 +155,10 @@ Nov: CVPR
     [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
    
    
+   
+19. Geometry-driven Self-supervised Method for 3D Human Pose Estimation (aaai2020)
 
-
+     [[paper](https://github.com/leon532/Geometry-driven-Self-supervised-Method-for-3D-Human-Pose-Estimation)][[code](https://github.com/leon532/Geometry-driven-Self-supervised-Method-for-3D-Human-Pose-Estimation)][project]
 
 
 
