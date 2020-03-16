@@ -214,12 +214,12 @@ Nov: CVPR
 
 9.  3D Human Pose Estimation using Spatio-Temporal Networks with Explicit Occlusion Training (aaai2020)
 
-   [[paper](http://tanrobby.github.io/focus_human.html)][code][[project](http://tanrobby.github.io/focus_human.html)]
+    [[paper](http://tanrobby.github.io/focus_human.html)][code][[project](http://tanrobby.github.io/focus_human.html)]
 
 
 10. Anatomy-aware 3D Human Pose Estimation in Videos (arXiv2020)
 
-   [[paper](https://arxiv.org/abs/2002.10322)][code][project]
+     [[paper](https://arxiv.org/abs/2002.10322)][code][project]
 
 
 # GCN
