@@ -201,14 +201,25 @@ Nov: CVPR
    [[paper](https://arxiv.org/pdf/1906.04016.pdf)][code][project]
 
 
+
 7. Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation (submitted to cvpr2020)
 
    [[paper](https://arxiv.org/abs/2002.11251)][[code](https://github.com/vnmr/JointVideoPose3D)][project]
 
 
-8. Anatomy-aware 3D Human Pose Estimation in Videos (arXiv2020)
+8. Occlusion-Aware Networks for 3D Human Pose Estimation in Video (iccv2019)
+
+   [[paper](http://tanrobby.github.io/focus_human.html)][code][[project](http://tanrobby.github.io/focus_human.html)]
 
 
+9.  3D Human Pose Estimation using Spatio-Temporal Networks with Explicit Occlusion Training (aaai2020)
+
+   [[paper](http://tanrobby.github.io/focus_human.html)][code][[project](http://tanrobby.github.io/focus_human.html)]
+
+
+10. Anatomy-aware 3D Human Pose Estimation in Videos (arXiv2020)
+
+   [[paper](https://arxiv.org/abs/2002.10322)][code][project]
 
 
 # GCN
