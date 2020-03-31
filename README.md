@@ -310,24 +310,30 @@ Nov: CVPR
    [[code](https://github.com/karfly/learnable-triangulation-pytorch)]
    [[project](https://saic-violet.github.io/learnable-triangulation/)]
    
-
-  
-   
-6. Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture (3DV2018)
-
-    [[paper](https://arxiv.org/pdf/1808.01525)][[code]()][[project]()]
-
-
-
-7. Harvesting multiple views for marker-less 3D human pose annotations (cvpr2017)
-
-    [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Harvesting_Multiple_Views_CVPR_2017_paper.pdf)][[code]()][[project]()]
     
 
-8. A generalizable approach for multi-view 3D human pose regression (Arxiv preprint)
+6. A generalizable approach for multi-view 3D human pose regression (Arxiv preprint)
 
     [[paper](https://arxiv.org/abs/1804.10462)][[code]()][[project]()]
+    
+    
+
+
+7. Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild (cvpr2020)
+
+    [[paper](https://arxiv.org/abs/2003.07581)][[code]()][[project]()]
+    
    
+   
+8. MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation (cvpr2020)
+
+    [[paper](https://chunyuwang.netlify.com/)][[code]()][[project]()]
+    
+    
+    
+9. Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach (cvpr2020)
+
+    [[paper](https://chunyuwang.netlify.com/)][[code]()][[project]()]
 
 
 # Pose and shape estimation
