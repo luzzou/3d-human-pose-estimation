@@ -77,57 +77,35 @@ Nov: CVPR
    
 
 
-  
 
-8. Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations (Arxiv preprint 2018)
-
-   [[paper](https://arxiv.org/abs/1803.08244)][[code](https://github.com/kogaki/3dpose_gan)]
-   [[project](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)]
-
-
-
-
-9. Feature Boosting Network For 3D Pose Estimation (TPAMI2019)
-
-    [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8621059)][code][project]
-    
-
-
-10. 3D human pose machines with self-supervised learning (TPAMI2019)
-
-    [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611195)]
-    [[code](https://github.com/chanyn/3Dpose_ssl)][project]
-   
-
-
-11. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation (cvpr2019)
+8. RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation (cvpr2019)
 
     [[paper](https://arxiv.org/abs/1902.09868)]
     [[code](https://github.com/bastianwandt/RepNet)][project]
 
 
 
-12. Unsupervised 3D Pose Estimation with Geometric Self-Supervision (cvpr2019)
+9. Unsupervised 3D Pose Estimation with Geometric Self-Supervision (cvpr2019)
 
     [[paper](https://arxiv.org/abs/1904.04812)][code][project]
 
 
 
-13. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations (cvpr2019)(oral) 
+10. In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations (cvpr2019)(oral) 
 
     [[paper](https://arxiv.org/abs/1904.03289)][code][project]
 
 
    
 
-14. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (cvpr2019)(oral)
+11. Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (cvpr2019)(oral)
 
     [[paper](https://arxiv.org/abs/1903.08839)][code][project]
 
   
 
 
-15. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (cvpr2019)
+12. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (cvpr2019)
 
     [[paper](https://arxiv.org/abs/1903.02330)]
     [[code](https://github.com/mkocabas/EpipolarPose)][project]
@@ -135,7 +113,7 @@ Nov: CVPR
 
    
 
-16. Sim2real transfer learning for 3D pose estimation: motion to the rescue (nips2019)
+13. Sim2real transfer learning for 3D pose estimation: motion to the rescue (nips2019)
 
     [[paper](https://arxiv.org/pdf/1907.02499.pdf)][code][project]
    
@@ -143,22 +121,23 @@ Nov: CVPR
 
 
 
-17. Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (nips2019)
+14. Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (nips2019)
 
     [paper][code][project]
 
 
 
 
-18. Generalizing Monocular 3D Human Pose Estimation in the Wild (iccv2019 workshop)
+15. Generalizing Monocular 3D Human Pose Estimation in the Wild (iccv2019 workshop)
 
     [[paper](https://arxiv.org/abs/1904.05512)][[code](https://github.com/llcshappy/Monocular-3D-Human-Pose)][project]
    
    
    
-19. Geometry-driven Self-supervised Method for 3D Human Pose Estimation (aaai2020)
+16. Geometry-driven Self-supervised Method for 3D Human Pose Estimation (aaai2020)
 
      [[paper](https://github.com/leon532/Geometry-driven-Self-supervised-Method-for-3D-Human-Pose-Estimation)][[code](https://github.com/leon532/Geometry-driven-Self-supervised-Method-for-3D-Human-Pose-Estimation)][project]
+
 
 
 
@@ -222,6 +201,7 @@ Nov: CVPR
      [[paper](https://arxiv.org/abs/2002.10322)][code][project]
 
 
+
 # GCN
 
 
@@ -243,6 +223,11 @@ Nov: CVPR
 
 
 
+3. DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation (aaai2020)
+
+    [[paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-QiuZ.4022.pdf)]
+    [[code]()]
+    
 
 
 # Multimodal
@@ -335,20 +320,6 @@ Nov: CVPR
 
     [[paper](https://chunyuwang.netlify.com/)][[code]()][[project]()]
 
-
-# Pose and shape estimation
-
-
-1.  Learning 3D Human Dynamics from Video (cvpr2019)
-
-    [[paper]()][[code]()][[project]()]
-
-
-
-2.  VIBE: Video Inference for Human Body Pose and Shape Estimation (cvpr2020)
-
-
-    [[paper]()][[code]()][[project]()]
 
 
 
