@@ -201,6 +201,15 @@ Nov: CVPR
      [[paper](https://arxiv.org/abs/2002.10322)][code][project]
 
 
+11. GAST-Net: Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (arXiv2020)
+
+     [[paper]()][code][project]
+     
+     
+12. Motion Guided 3D Pose Estimation from Videos (arXiv2020)
+
+    [[paper]()][code][project]
+
 
 # GCN
 
@@ -227,6 +236,12 @@ Nov: CVPR
 
     [[paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-QiuZ.4022.pdf)]
     [[code]()]
+    
+    
+    
+4. GAST-Net: Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (arXiv2020)
+
+     [[paper]()][code][project]
     
 
 
