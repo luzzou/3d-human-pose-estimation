@@ -33,7 +33,7 @@ Nov: CVPR
 1. A simple yet effective baseline for 3d human pose estimation (iccv2017)
 
    [[paper](https://arxiv.org/abs/1705.03098)]
-   [[code](https://github.com/lck1201/simple-effective-3Dpose-baseline)]
+   [[code](https://github.com/una-dinosauria/3d-pose-baseline)]
    
    
    
