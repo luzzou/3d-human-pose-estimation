@@ -134,6 +134,9 @@ Nov: CVPR
 
 
 
+17. CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild (cvpr2021)
+
+
 
 # Video
 
@@ -199,11 +202,14 @@ Nov: CVPR
      [[project](http://www.juanrojas.net/gast/)]
      
      
-     
 13. Motion Guided 3D Pose Estimation from Videos (eccv2020)
 
     [[paper](https://arxiv.org/abs/2004.13985)]
     
+
+14. Graph Stacked Hourglass Networks for 3D Human Pose Estimation (cvpr2021)
+
+     [[paper](https://arxiv.org/abs/2103.16385)]
 
 
 # GCN
@@ -233,11 +239,38 @@ Nov: CVPR
     [[code]()]
     
     
-    
 4. GAST-Net: Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (arXiv2020)
 
      [[paper](https://arxiv.org/abs/2003.14179)][[code](https://github.com/fabro66/GAST-Net-3DPoseEstimation)][[project](http://www.juanrojas.net/gast/)]
     
+
+5. Graph Stacked Hourglass Networks for 3D Human Pose Estimation (cvpr2021)
+
+     [[paper](https://arxiv.org/abs/2103.16385)]
+
+
+
+
+# Transformer
+
+1. 3D Human Pose Estimation with Spatial and Temporal Transformers (arXiv2021)
+
+   [[paper](https://arxiv.org/abs/2103.10455)]
+   [[code](https://github.com/zczcwh/PoseFormer)]
+
+
+2. LiftFormer: 3D Human Pose Estimation using attention models (arXiv2021)
+
+   [[paper](https://arxiv.org/abs/2009.00348)]
+   [[code]()]
+
+
+3. Lifting Transformer for 3D Human Pose Estimation in Video (arXiv2021)
+
+   [[paper](https://arxiv.org/abs/2103.14304)]
+   [[code]()]
+
+
 
 
 # Multimodal
@@ -304,38 +337,24 @@ Nov: CVPR
    [[paper](https://arxiv.org/abs/1905.05754)]
    [[code](https://github.com/karfly/learnable-triangulation-pytorch)]
    [[project](https://saic-violet.github.io/learnable-triangulation/)]
-   
-    
-
-6. A generalizable approach for multi-view 3D human pose regression (Arxiv preprint)
-
-    [[paper](https://arxiv.org/abs/1804.10462)][[code]()][[project]()]
-    
-    
 
 
-7. Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild (cvpr2020)
+6. Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild (cvpr2020)
 
     [[paper](https://arxiv.org/abs/2003.07581)][[code]()][[project]()]
     
    
    
-8. MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation (cvpr2020)
+7. MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation (cvpr2020)
 
     [[paper](https://chunyuwang.netlify.com/)][[code]()][[project]()]
     
     
     
-9. Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach (cvpr2020)
+8. Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach (cvpr2020)
 
-    [[paper](https://chunyuwang.netlify.com/)][[code]()][[project]()]
+    [[paper](https://chunyuwang.netlify.com/)][[code](https://github.com/CHUNYUWANG/imu-human-pose-pytorch)][[project]()]
     
-
-10. Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation
-
-
-11. Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation
-
 
 
 
