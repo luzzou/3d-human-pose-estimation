@@ -136,6 +136,8 @@ Nov: CVPR
 
 17. CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild (cvpr2021)
 
+     [[paper](https://arxiv.org/abs/2011.14679)]
+
 
 
 # Video
